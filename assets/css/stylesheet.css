@@ -70,6 +70,29 @@ h2{
     color: white;
 }
 
+#gallery-banner{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.gallery-banner-image{
+    flex: 1;
+    display: flex;
+    margin: 1% 1% 1% 1%;
+    height: 100px;
+}
+
+.gallery-banner-image img{
+    border-radius: 10px;
+    width: 100%;
+    object-fit: cover;
+}
+
+
+
+/*MEDIA QUERY*/
+
 @media all and (max-width: 768px) {
 
     .header-image-text{
