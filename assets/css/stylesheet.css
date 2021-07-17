@@ -12,12 +12,16 @@ body{
     background-color: blanchedalmond;
 }
 h1{
-    font-family: Cinzel;
+    font-family: Cinzel, sans-serif;
+    text-align: center;
     font-size: 300%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h2{
     font-family: Cinzel;
+    text-align: center;
 }
 
 /*header - hero image*/
@@ -104,6 +108,27 @@ h2{
     border-radius: 10px;
     width: 100%;
     object-fit: cover;
+}
+
+/*History Section*/
+
+#history-title{
+    width: 90%;
+    border-top: solid 1px grey;
+    border-bottom: solid 1px grey;
+    margin-left: auto;
+    margin-right: auto;
+}
+.history-content{
+    display:flex;
+    margin: 1% 5% 1% 5%;
+}
+.history-content-text{
+    text-align: justify;
+}
+
+.history-content-text p{
+    padding-bottom: 1%;
 }
 
 
