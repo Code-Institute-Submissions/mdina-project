@@ -48,7 +48,27 @@ h2{
     border: none;
 }
 
+/*Navigational Bar*/
 
+.nav-bar {
+    overflow: hidden;
+    background-color: rgba(241, 109, 107, 1);
+    text-align: center;
+}
+  
+.nav-bar a {
+    display:inline-block;
+    color: inherit;
+    text-align: center;
+    padding: 1% 2% 1% 2%;
+    text-decoration: none;
+    font-family: Cinzel;
+}
+  
+.nav-bar a:hover {
+    background-color: lightskyblue;
+    color: white;
+}
 
 @media all and (max-width: 768px) {
 
