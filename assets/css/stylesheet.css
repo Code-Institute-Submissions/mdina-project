@@ -24,6 +24,11 @@ h2{
     text-align: center;
 }
 
+h3{
+    font-family: Cinzel;
+    text-align: center;
+}
+
 /*header - hero image*/
 
 .header-background {
@@ -165,7 +170,106 @@ figcaption{
     margin-top: 1%;
 }
 
+/*How to find us*/
 
+#how-to-find-mdina h2{
+    color: white;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.find-mdina-container p{
+    color: white;
+}
+
+#how-to-find-mdina button{
+    margin:5% auto 5% auto;
+    background-color: transparent;
+    border:solid 2px skyblue;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-transform: uppercase;
+    display: inline-block;
+    font-size: 14px;
+    border-radius: 8px;
+}
+
+#how-to-find-mdina button:hover{
+    cursor: pointer;
+    background-color: skyblue;
+    color: teal;
+}
+
+.find-mdina-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.travel-information{
+    flex: 1;
+    border-radius: 10px;
+    margin: 3% 3% 3% 3%;
+    text-align: center;
+}
+
+.layer{
+    background-color: rgba(241, 109, 107, 0.8575);
+    border-radius: 10px;
+}
+
+/* Contact */
+.contact-form{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+form{
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2%;
+}
+
+form label{
+    font-family: Raleway, sans-serif;
+}
+
+form input{
+    margin: 1% 0 1%;
+    line-height: 150%;
+    width: 100%;
+}
+
+textarea{
+    margin-top: 1%;
+    width: 100%;
+}
+
+textarea::placeholder{
+    font-family: Raleway, sans-serif;
+    padding: 1% 0 0 1%;
+}
+.form-button{
+    width: 100%;
+    margin:5% auto 5% auto;
+    background-color:  rgba(241, 109, 107, 0.75);
+    border:solid 2px skyblue;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-transform: uppercase;
+    display: inline-block;
+    font-size: 14px;
+    border-radius: 8px;
+}
+
+.form-button:hover{
+    cursor: pointer;
+    background-color: skyblue;
+    color: teal;
+}
 
 /*Footer*/
 
