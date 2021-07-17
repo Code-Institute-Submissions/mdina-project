@@ -112,7 +112,7 @@ h2{
 
 /*History Section*/
 
-#history-title{
+.section-titles{
     width: 90%;
     border-top: solid 1px grey;
     border-bottom: solid 1px grey;
@@ -125,11 +125,36 @@ h2{
 }
 .history-content-text{
     text-align: justify;
+    line-height: 1.6;
+    
 }
 
 .history-content-text p{
     padding-bottom: 1%;
+    padding-right: 2%;
+    width: 100%;
 }
+
+.history-content-images-container{
+    display: flex;
+    flex-direction: column;
+    object-position: center;
+    justify-content: space-evenly;
+    }
+
+.history-content-images{
+    margin: 1% 1% 1% 1%;
+    width: 75%;
+    margin-left: auto;
+    margin-left: auto;
+}
+
+.history-content-images img{
+    border-radius: 10px;
+    width: 100%;
+    object-fit: cover;
+}
+
 
 
 /*MEDIA QUERY*/
