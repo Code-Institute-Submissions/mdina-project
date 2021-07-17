@@ -11,3 +11,58 @@ body{
     color: #36454F;
     background-color: blanchedalmond;
 }
+h1{
+    font-family: Cinzel;
+    font-size: 300%;
+}
+
+h2{
+    font-family: Cinzel;
+}
+
+/*header - hero image*/
+
+.header-background {
+    height:350px;
+    width:100%;
+    overflow: hidden;
+    position: relative;
+}
+.header-image{
+    height:100%;
+    width:auto;
+    background: url("../images/banner-hero-image.jpg") no-repeat center center;
+    background-size: cover;     
+}
+
+.header-image-text{
+    font-family: Cinzel, sans-serif;
+    text-transform:uppercase;
+    text-align: center;
+    padding: 2%;
+    background-color: rgba(241, 109, 107, 0.75);
+    bottom: 28%;
+    left: 5%;
+    position: absolute;
+    color: white;
+    border: none;
+}
+
+
+
+@media all and (max-width: 768px) {
+
+    .header-image-text{
+        width: 45%;
+        padding-left: 2%;
+        padding-right: 2%;
+    }
+
+    .header-image-text h1{
+        font-size: 1.5em;
+    }
+    .header-image-text h2{
+        font-size: 1em;
+    }
+    
+  }
