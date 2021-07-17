@@ -89,12 +89,29 @@ h2{
     object-fit: cover;
 }
 
+#gallery-banner-mobile{
+    display: none;
+    flex-direction: row;
+    width: 100%;
+}
+.gallery-banner-image-mobile{
+    flex: 1;
+    display: flex;
+    margin: 1% 1% 1% 1%;
+    height: 100px;
+}
+.gallery-banner-image-mobile img{
+    border-radius: 10px;
+    width: 100%;
+    object-fit: cover;
+}
 
 
 /*MEDIA QUERY*/
 
 @media all and (max-width: 768px) {
-
+    
+    /*Header Image*/
     .header-image-text{
         width: 45%;
         padding-left: 2%;
@@ -107,5 +124,15 @@ h2{
     .header-image-text h2{
         font-size: 1em;
     }
-    
+
+    /*image banner*/
+    #gallery-banner{
+        display: none;
+    }
+
+    #gallery-banner-mobile{
+        display: flex;
+    }
+
+
   }
