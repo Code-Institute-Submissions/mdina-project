@@ -488,6 +488,12 @@ textarea::placeholder{
     margin-bottom: 1%;
 }
 
+@media all and (max-width: 768px){
+    .footer-content{
+        font-size:x-small;
+    }
+}
+
 /*MEDIA QUERY*/
 
 @media all and (max-width: 768px) {
