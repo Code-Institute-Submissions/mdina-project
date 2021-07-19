@@ -170,6 +170,54 @@ figcaption{
     margin-top: 1%;
 }
 
+/*Notable Buildings*/
+
+.notable-buildings-container{
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    justify-content: space-around;
+}
+
+.notable-building-image {
+    flex: 1;
+    flex-basis: 30%;
+    margin: 1% 1% 1% 1%;
+    position: relative;
+}
+
+.notable-building-image:hover img{
+    filter:grayscale(100%);
+}
+
+.notable-building-image:hover div {
+    padding: 2%;
+    visibility: visible;
+    opacity: 1; 
+  }
+
+.notable-building-image img{
+    width: 100%;
+}
+
+.text-overlay{
+    position: absolute;
+    margin-bottom: 5%;
+    bottom: 0;
+    right: 0;
+    background:  rgba(241, 109, 107, 0.75);
+    color: white;
+    font-family: Raleway, sans-serif;
+    opacity: 0;
+    visibility: hidden;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    transition: visibility 0s, opacity 0.5s linear; 
+}
+
 /*How to find us*/
 
 #how-to-find-mdina h2{
