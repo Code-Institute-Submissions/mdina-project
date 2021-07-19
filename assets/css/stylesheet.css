@@ -229,14 +229,18 @@ figcaption{
 }
 
 
+
 @media all and (max-width: 768px) {
 
     /*Notable Buildings*/
         .notable-buildings-container{
-            flex-direction: column;
+            display: grid;
+            grid-template-columns: 50% 50%;
+            column-gap: 0px;
         }
+
         .notable-building-image{
-            width: 80%;
+            width: 90%;
             margin-left: auto;
             margin-right: auto;
         }
@@ -301,6 +305,13 @@ figcaption{
 .layer{
     background-color: rgba(241, 109, 107, 0.8575);
     border-radius: 10px;
+}
+
+@media all and (max-width: 768px) {
+    .find-mdina-container{
+        flex-direction: column;
+        width: 70%;
+    }
 }
 
 /* Contact */
