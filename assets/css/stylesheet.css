@@ -115,15 +115,18 @@ h3{
     object-fit: cover;
 }
 
-/*History Section*/
-
 .section-titles{
     width: 90%;
     border-top: solid 1px grey;
     border-bottom: solid 1px grey;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 2%;
 }
+
+/*History Section*/
+
+
 .history-content{
     display:flex;
     margin: 1% 5% 1% 5%;
@@ -196,13 +199,14 @@ figcaption{
 
 .notable-building-image:hover img{
     filter:grayscale(100%);
-    
+    cursor: pointer;    
 }
 
 .notable-building-image:hover div {
     padding: 2%;
     visibility: visible;
     opacity: 1; 
+    cursor: pointer;
   }
 
 .text-overlay{
@@ -219,6 +223,34 @@ figcaption{
     border-bottom-left-radius: 5px;
     transition: visibility 0s, opacity 0.5s linear; 
 }
+.text-overlay a{
+    text-decoration: none;
+    color: white;
+}
+
+
+@media all and (max-width: 768px) {
+
+    /*Notable Buildings*/
+        .notable-buildings-container{
+            flex-direction: column;
+        }
+        .notable-building-image{
+            width: 80%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .notable-building-image:hover img{
+            filter:none;
+        }
+        .text-overlay{
+            opacity: 1;
+            visibility: visible;
+            padding: 2%;
+        }
+    
+    }
 
 /*How to find us*/
 
@@ -254,6 +286,9 @@ figcaption{
 .find-mdina-container{
     display: flex;
     flex-direction: row;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .travel-information{
@@ -396,6 +431,4 @@ textarea::placeholder{
     #gallery-banner-mobile{
         display: flex;
     }
-
-
   }
