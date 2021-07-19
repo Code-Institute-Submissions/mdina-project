@@ -189,8 +189,14 @@ figcaption{
     position: relative;
 }
 
+.notable-building-image img{
+    width: 100%;
+    border-radius: 5px;
+}
+
 .notable-building-image:hover img{
     filter:grayscale(100%);
+    
 }
 
 .notable-building-image:hover div {
@@ -198,10 +204,6 @@ figcaption{
     visibility: visible;
     opacity: 1; 
   }
-
-.notable-building-image img{
-    width: 100%;
-}
 
 .text-overlay{
     position: absolute;
