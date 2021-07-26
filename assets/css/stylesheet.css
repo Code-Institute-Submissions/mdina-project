@@ -6,6 +6,10 @@
     border: none;
 }
 
+html{
+    scroll-padding-top: 10%;
+}
+
 body{
     font-family: Raleway, sans-serif;
     color: #36454F;
