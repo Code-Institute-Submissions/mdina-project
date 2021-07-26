@@ -267,6 +267,15 @@ h3{
     }
 }
 
+/*Video Section*/
+
+.video-container{
+    width: 90%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 /*Notable Buildings*/
 
 .notable-buildings-container{
