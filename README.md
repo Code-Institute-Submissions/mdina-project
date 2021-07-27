@@ -2,6 +2,8 @@
 
 ‘Mdina – The Silent City with a Story to Tell’ is a site that hopes to introduce people to some of the historically significant locations found around Mdina, Malta.  The site will be targeted towards history enthusiasts and travellers looking for more information about the various locations found in Mdina.  
 
+![Website Banner](assets/images/readme-images/hero-image-with-title-mobile.jpg)
+
 ## FEATURES
 
 ### Existing Features
@@ -19,8 +21,17 @@ SCREENSHOT
 
 SCREENSHOT
 
+* History Section
+    - Site’s only text-heavy section containing a brief history of the city as a whole.  As site is focussed towards history enthusiasts and travellers, having accurate historical content first establishes credibility. 
+    - Contains two images for decorative purposes.
 
-![Website Banner](assets/images/readme-images/hero-image-with-title-mobile.jpg)
+SCREENSHOT – history-section-desktop.jpg / history-section-mobile.jpg
+
+* Notable Buildings Section
+    - Contains eight images of different buildings around Mdina.  Each image serves as a link to the building’s dedicated Wikipedia page (which opens in a new window).  Using the building’s image allows users to quickly access the building’s information when they are physically present in Mdina – thus using it as a reference.
+    - In the desktop view, a transition effect will be visible.  When the user hovers over an image, the image will turn grey and the building name will appear.
+    - In the mobile view, there is no hover effect, each building name will be present on the image.
+
 
 
 
