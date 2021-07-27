@@ -6,10 +6,6 @@
 
 ![Website Banner](assets/images/readme-images/hero-image-with-title.jpg)
 
-**Mobile View -**
-
-![Mobile Banner](assets/images/readme-images/mobile-banner.jpg)
-
 ## FEATURES
 
 ### Existing Features
