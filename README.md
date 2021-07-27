@@ -2,7 +2,9 @@
 
 ‘Mdina – The Silent City with a Story to Tell’ is a site that hopes to introduce people to some of the historically significant locations found around Mdina, Malta.  The site will be targeted towards history enthusiasts and travellers looking for more information about the various locations found in Mdina.  
 
-![Website Banner](assets/images/readme-images/hero-image-with-title-mobile.jpg)
+![Website Banner](assets/images/readme-images/hero-image-with-title.jpg)
+
+![Mobile Banner](assets/images/readme-images/hero-image-with-title-mobile.jpg)
 
 ## FEATURES
 
@@ -112,10 +114,13 @@ Adapted from [Mdina Wikipedia](https://en.wikipedia.org/wiki/Mdina)
 Remaining Images from personal collection.
 
 **Video**
+
 [Mdina - 4K Cinematic Drone](https://www.youtube.com/watch?v=q_7-Lx3Xm2g)
 
 **Icons**
+
 Font Awesome - https://fontawesome.com/
 
 **Fonts**
+
 Google Fonts - https://fonts.google.com/
