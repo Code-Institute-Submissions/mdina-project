@@ -65,8 +65,15 @@
 
 ## Testing
 **HTML**
-No errors detected when run through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdougiemath.github.io%2Fproject-1%2F)
+* No errors detected when run through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdougiemath.github.io%2Fproject-1%2F)
 
+**CSS**
+* CSS – no errors were found when passing through the official [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdougiemath.github.io%2Fproject-1%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+**Lighthouse**
+* Results from Lighthouse testing:
+
+![Lighthouse Results](assets/images/readme-images/lighthouse-results.jpg)
 
 ## Deployment
 
