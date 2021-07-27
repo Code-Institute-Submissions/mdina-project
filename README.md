@@ -47,6 +47,13 @@ SCREENSHOT – how-to-find-us-section-desktop.jpg / how-to-find-us-section-mobil
 
 SCREENSHOT – contact-us-section-desktop.jpg / contact-us-section-mobile-1.jpg / contact-us-section-mobile-2.jpg
 
+* Footer
+    - This section contains links to relevant social media sites which will open in separate tabs for easy navigation for the user.
+    - The footer is valuable to the user as it encourages them to keep connected via social media
+
+SCREENSHOT – footer-section-desktop.jpg / footer-section-mobile.jpg 
+
+
 
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
