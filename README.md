@@ -1,3 +1,6 @@
+# MDINA - THE SILENT CITY WITH A STORY TO TELL
+
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome dougiemath,
