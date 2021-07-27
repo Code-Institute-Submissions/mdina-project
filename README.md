@@ -1,5 +1,6 @@
 # MDINA - THE SILENT CITY WITH A STORY TO TELL
 
+![Website Banner](assets/images/readme-images/hero-image-with-title-mobile.jpg)
 
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
