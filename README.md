@@ -55,3 +55,10 @@
 
 ![Footer](assets/images/readme-images/footer-desktop.jpg)
 
+### Features remaining to be implemented
+
+**Navigation Bar** 
+* currently the navigation bar isn’t fully responsive for mobile devices.  In the future, this will change to a fixed, hamburger drop-down menu.
+
+**Contact Form**
+* Currently the contact form is a visual representation only with no interactivity.  This will need to be implemented.
