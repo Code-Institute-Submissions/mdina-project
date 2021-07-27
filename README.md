@@ -32,7 +32,20 @@ SCREENSHOT – history-section-desktop.jpg / history-section-mobile.jpg
     - In the desktop view, a transition effect will be visible.  When the user hovers over an image, the image will turn grey and the building name will appear.
     - In the mobile view, there is no hover effect, each building name will be present on the image.
 
+* How to Find Us Section
+    - Does not contain information on how to find Mdina, but does contain links to a tourist information site on how to get there by bus, bu car and on foot.
+     - As the site is primarily designed with a focus on history, it was decided that this information should be simple with few details.
+    - There are three sections each with a button to an external page which opens in a new tab.
 
+SCREENSHOT – how-to-find-us-section-desktop.jpg / how-to-find-us-section-mobile.jpg
+
+* Contact Section
+    - Contains a form and a video about Mdina.  
+    - This section allows users to get in touch if they have any questions about Mdina or the content displayed on the page.
+    - This feature is currently inactive (see below)
+     - The video is present to give users an alternative view of Mdina which can be watched while filling in the form on the desktop version.  For mobile devices, the video is below the form.
+
+SCREENSHOT – contact-us-section-desktop.jpg / contact-us-section-mobile-1.jpg / contact-us-section-mobile-2.jpg
 
 
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
