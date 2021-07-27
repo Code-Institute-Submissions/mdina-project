@@ -77,6 +77,26 @@
 
 ## Deployment
 
+The site is currently live and deployed in GitHub: https://dougiemath.github.io/project-1/ 
 
 ## Credits
+
+**Content**
+
+Adapted from [Mdina Wikipedia] (https://en.wikipedia.org/wiki/Mdina)
+
+**Images**
+
+[Banca Giurtale] (https://commons.wikimedia.org/wiki/File:Mdina_St_Agatha_chapel.JPG#/media/File:Mdina_St_Agatha_chapel.JPG)
+[Corte Capitanale] (https://commons.wikimedia.org/wiki/File:Mdina_St_Agatha_chapel.JPG#/media/File:Mdina_St_gatha_chapel.JPG)
+Greek’s Gate – https://commons.wikimedia.org/wiki/File:Bieb_il-Griegi.jpg#/media/File:Bieb_il-Griegi.jpg
+Mdina Gate – https://pixabay.com/images/id-1988027/
+St Agatha’s Chapel – https://commons.wikimedia.org/wiki/File:Mdina_St_Agatha_chapel.JPG#/media/File:Mdina_St_Agatha_chapel.JPG
+St Paul’s Cathedral – https://pixabay.com/images/id-2059102/
+St Roque’s Chapel – https://commons.wikimedia.org/wiki/File:Mdina_St_Agatha_chapel.JPG#/media/File:Mdina_St_Agatha_chapel.JPG
+Vilhena Palace – https://pixabay.com/images/id-1988027/
+Statue in St Paul’s Catacomb – Personal 
+Iron-wrought relief of Phonecian Ship – https://commons.wikimedia.org/wiki/File:Fenisisk_b%C3%A5t_p%C3%A5_h%C3%A4llristning.png#/media/File:Fenisisk_båt_på_hällristning.png
+Aerial View of Mdina –   https://www.pexels.com/photo/aerial-view-of-brown-concrete-building-7681934/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels 
+Header - https://pixabay.com/images/id-3913077/
 
