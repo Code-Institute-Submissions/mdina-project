@@ -62,3 +62,14 @@
 
 **Contact Form**
 * Currently the contact form is a visual representation only with no interactivity.  This will need to be implemented.
+
+## Testing
+**HTML**
+No errors detected when run through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdougiemath.github.io%2Fproject-1%2F)
+
+
+## Deployment
+
+
+## Credits
+
