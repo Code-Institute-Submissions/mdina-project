@@ -4,6 +4,17 @@
 
 ![Website Banner](assets/images/readme-images/hero-image-with-title.jpg)
 
+## USER EXPERIENCE
+
+### USER STORIES
+
+* First Time Visitor Goals
+
+As a First Time Visitor, I want to be able to navigate the page to find content with ease.
+
+As a First Time Visitor, I want to be able to find information about the historical buildings in Mdina without being overwhelmed with content.
+
+
 ## FEATURES
 
 ### Existing Features
