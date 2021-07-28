@@ -51,6 +51,12 @@
 
 ![History Section](assets/images/readme-images/history-section-desktop.jpg)
 
+#### Video
+* Contains an embedded Youtube video
+* The video is present to give users an alternative view of Mdina which can be watched while filling in the form on the desktop version.  For mobile devices, the video is below the form.
+
+![Video Section](assets/images/readme-images/video-section.jpg)
+
 #### Notable Buildings Section
 * Contains eight images of different buildings around Mdina.  Each image serves as a link to the building’s dedicated Wikipedia page (which opens in a new window).  Using the building’s image allows users to quickly access the building’s information when they are physically present in Mdina – thus using it as a reference.
 * In the desktop view, a transition effect will be visible.  When the user hovers over an image, the image will turn grey and the building name will appear.
@@ -66,12 +72,11 @@
 ![How to find us section](assets/images/readme-images/how-to-find-us-desktop.jpg)
 
 #### Contact Section
-* Contains a form and a video about Mdina.  
+* Contains a  form.  
 * This section allows users to get in touch if they have any questions about Mdina or the content displayed on the page.
 * This feature is currently inactive (see below)
-* The video is present to give users an alternative view of Mdina which can be watched while filling in the form on the desktop version.  For mobile devices, the video is below the form.
 
-![Contact](assets/images/readme-images/contact-section-desktop.jpg)
+![Contact](assets/images/readme-images/contact-section.jpg)
 
 #### Footer
 * This section contains links to relevant social media sites which will open in separate tabs for easy navigation for the user.
