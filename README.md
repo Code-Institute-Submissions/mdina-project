@@ -120,18 +120,21 @@
 ##### Returning Visitor Goals
 
 * As a Returning Visitor, I want to find information about new buildings in Mdina.
+    - The design of the site can be easily updated to add as many buildings as necessary.  
 
 * As a Returning Visitor, I want to find the best way to get in contact the creator with any questions I have (either through a contact form or social media).
+    - Near the bottom of the page (accessible from a link in the navigation bar) is a contact form which can be used to contact the creator directly.
 
 * As a Returning Visitor, I want to find community links.
+    - In the footer are various social media links.  These can be to private pages or to community groups.
 
 ##### Frequent Visitor Goals
 
 * As a Frequent User, I want to check to see if there are any newly buildings and/or content.
+    - At present there is no subscription service to be signed up to.  Users can open the page and check on their own volition at any point.
 
 * As a Frequent User, I want to access the website on location in Mdina for information while I travel through the city.
-
-
+    - The site is responsive for mobile view allowing users to access the information without stress.
 
 ## Deployment
 
