@@ -8,11 +8,19 @@
 
 ### USER STORIES
 
-* First Time Visitor Goals
+#### First Time Visitor Goals
 
-As a First Time Visitor, I want to be able to navigate the page to find content with ease.
+* As a First Time Visitor, I want to be able to navigate the page to find content with ease.
 
-As a First Time Visitor, I want to be able to find information about the historical buildings in Mdina without being overwhelmed with content.
+* As a First Time Visitor, I want to be able to find information about the historical buildings in Mdina without being overwhelmed with content.
+
+#### Returning Visitor Goals
+
+* As a Returning Visitor, I want to find information about new buildings in Mdina.
+
+* As a Returning Visitor, I want to find the best way to get in contact the creator with any questions I have (either through a contact form or social media).
+
+* As a Returning Visitor, I want to find community links.
 
 
 ## FEATURES
