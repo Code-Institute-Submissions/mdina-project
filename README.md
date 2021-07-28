@@ -92,6 +92,9 @@
 #### Contact Form
 * Currently the contact form is a visual representation only with no interactivity.  This will need to be implemented.
 
+#### Subscription
+* There is no option for users to sign up to be notified of any developments to the site.
+
 #### Testing
 ##### HTML 
 * No errors detected when run through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdougiemath.github.io%2Fproject-1%2F)
@@ -103,6 +106,32 @@
 * Results from Lighthouse testing:
 
 ![Lighthouse Results](assets/images/readme-images/lighthouse-results.jpg)
+
+#### User Experience Testing
+
+##### First Time Visitor Goals
+
+* As a First Time Visitor, I want to be able to navigate the page to find content with ease.
+    - On arrival at this site users are greeted with a clean navigation par that is fixed at the top of the screen at all times – allowing for easy navigation.
+
+* As a First Time Visitor, I want to be able to find information about the historical buildings in Mdina without being overwhelmed with content.
+    - There is some content with a brief history of Mdina, but individual are not represented in text form.  Individual buildings are displayed as images with the building names overlaying.  The user is not overwhelmed as there is not any information present, but a link to a Wikipedia page.
+
+##### Returning Visitor Goals
+
+* As a Returning Visitor, I want to find information about new buildings in Mdina.
+
+* As a Returning Visitor, I want to find the best way to get in contact the creator with any questions I have (either through a contact form or social media).
+
+* As a Returning Visitor, I want to find community links.
+
+##### Frequent Visitor Goals
+
+* As a Frequent User, I want to check to see if there are any newly buildings and/or content.
+
+* As a Frequent User, I want to access the website on location in Mdina for information while I travel through the city.
+
+
 
 ## Deployment
 
