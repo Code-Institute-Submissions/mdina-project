@@ -150,42 +150,42 @@ The site is currently live and deployed in GitHub: https://dougiemath.github.io/
 
 **Content**
 
-Adapted from [Mdina Wikipedia](https://en.wikipedia.org/wiki/Mdina)
+* Adapted from [Mdina Wikipedia](https://en.wikipedia.org/wiki/Mdina)
 
 **Images**
 
-[Banca Giurtale](https://commons.wikimedia.org/wiki/File:Mdina_St_Agatha_chapel.JPG#/media/File:Mdina_St_Agatha_chapel.JPG)
+* [Banca Giurtale](https://commons.wikimedia.org/wiki/File:Mdina_St_Agatha_chapel.JPG#/media/File:Mdina_St_Agatha_chapel.JPG)
 
-[Corte Capitanale](https://commons.wikimedia.org/wiki/File:Mdina_St_Agatha_chapel.JPG#/media/File:Mdina_St_gatha_chapel.JPG)
+* [Corte Capitanale](https://commons.wikimedia.org/wiki/File:Mdina_St_Agatha_chapel.JPG#/media/File:Mdina_St_gatha_chapel.JPG)
 
-[Greek’s Gate](https://commons.wikimedia.org/wiki/File:Bieb_il-Griegi.jpg#/media/File:Bieb_il-Griegi.jpg)
+* [Greek’s Gate](https://commons.wikimedia.org/wiki/File:Bieb_il-Griegi.jpg#/media/File:Bieb_il-Griegi.jpg)
 
-[Mdina Gate](https://pixabay.com/images/id-1988027/)
+* [Mdina Gate](https://pixabay.com/images/id-1988027/)
 
-[St Agatha’s Chapel](https://commons.wikimedia.org/wiki/File:Mdina_St_Agatha_chapel.JPG#/media/File:Mdina_St_Agatha_chapel.JPG)
+* [St Agatha’s Chapel](https://commons.wikimedia.org/wiki/File:Mdina_St_Agatha_chapel.JPG#/media/File:Mdina_St_Agatha_chapel.JPG)
 
-[St Paul’s Cathedral](https://pixabay.com/images/id-2059102/)
+* [St Paul’s Cathedral](https://pixabay.com/images/id-2059102/)
 
-[St Roque’s Chapel](https://commons.wikimedia.org/wiki/File:Mdina_St_Agatha_chapel.JPG#/media/File:Mdina_St_Agatha_chapel.JPG)
+* [St Roque’s Chapel](https://commons.wikimedia.org/wiki/File:Mdina_St_Agatha_chapel.JPG#/media/File:Mdina_St_Agatha_chapel.JPG)
 
-[Vilhena Palace](https://pixabay.com/images/id-1988027/)
+* [Vilhena Palace](https://pixabay.com/images/id-1988027/)
 
-[Iron-wrought relief of Phonecian Ship](https://commons.wikimedia.org/wiki/File:Fenisisk_b%C3%A5t_p%C3%A5_h%C3%A4llristning.png#/media/File:Fenisisk_båt_på_hällristning.png)
+* [Iron-wrought relief of Phonecian Ship](https://commons.wikimedia.org/wiki/File:Fenisisk_b%C3%A5t_p%C3%A5_h%C3%A4llristning.png#/media/File:Fenisisk_båt_på_hällristning.png)
 
-[Aerial View of Mdina](https://www.pexels.com/photo/aerial-view-of-brown-concrete-building-7681934/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
+* [Aerial View of Mdina](https://www.pexels.com/photo/aerial-view-of-brown-concrete-building-7681934/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
 
-[Header](https://pixabay.com/images/id-3913077/)
+* [Header](https://pixabay.com/images/id-3913077/)
 
 Remaining Images from personal collection.
 
 **Video**
 
-[Mdina - 4K Cinematic Drone](https://www.youtube.com/watch?v=q_7-Lx3Xm2g)
+* [Mdina - 4K Cinematic Drone](https://www.youtube.com/watch?v=q_7-Lx3Xm2g)
 
 **Icons**
 
-Font Awesome - https://fontawesome.com/
+* Font Awesome - https://fontawesome.com/
 
 **Fonts**
 
-Google Fonts - https://fonts.google.com/
+* Google Fonts - https://fonts.google.com/
