@@ -138,6 +138,12 @@
 
 ## Deployment
 
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+
+* In the GitHub repository, navigate to the Settings tab
+* From the menu on the left side of the screen, click on 'Pages'
+* From the 'Source' section, click on the dropdown menu (currently showing 'None') and select 'Main'.  Clicking 'save' will refresh the page and publish the site.  Note, publishing will take a short amount of time.
+
 The site is currently live and deployed in GitHub: https://dougiemath.github.io/project-1/ 
 
 ## Credits
