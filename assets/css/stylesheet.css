@@ -15,7 +15,7 @@ body{
     color: #36454F;
     background-color: blanchedalmond;
 }
-h1{
+.general-header1{
     font-family: Cinzel, sans-serif;
     text-align: center;
     font-size: 300%;
@@ -23,7 +23,7 @@ h1{
     margin-right: auto;
 }
 
-h2{
+.general-header2{
     font-family: Cinzel;
     text-align: center;
     width: 90%;
@@ -33,12 +33,6 @@ h2{
     margin-right: auto;
     margin-top: 2%;
     margin-bottom: 2%;
-}
-
-h3{
-    font-family: Cinzel;
-    text-align: center;
-    
 }
 
 /*Navigational Bar*/
@@ -390,6 +384,7 @@ h3{
     color: white;
     padding-top: 5%;
     padding-bottom: 5%;
+    font-family: Cinzel, sans-serif;
 }
 
 .find-mdina-container p{
