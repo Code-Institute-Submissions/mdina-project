@@ -1,14 +1,8 @@
 # MDINA - THE SILENT CITY WITH A STORY TO TELL
 
-‘Mdina – The Silent City with a Story to Tell’ is a site that hopes to introduce people to some of the historically significant locations found around Mdina, Malta.  The site will be targeted towards history enthusiasts and travellers looking for more information about the various locations found in Mdina.  
+‘Mdina – The Silent City with a Story to Tell’ is a site that hopes to introduce people to some of the historically significant locations found around Mdina, Malta.  The site will be targeted towards history enthusiasts and travellers looking for more information about the various locations found in the city of Mdina.  
 
-**Desktop View**
-
-![Website Banner](assets/images/readme-images/hero-image-with-title.jpg)
-
-**Mobile View**
-
-![Website Banner](assets/images/readme-images/hero-image-with-title-mobile.jpg)
+![Website Banner](assets/images/readme-images/desktop-and-mobile-view.jpg)
 
 ## USER EXPERIENCE
 
